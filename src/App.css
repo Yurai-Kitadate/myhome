@@ -1,0 +1,18 @@
+.card {
+  width: fit-content;
+  margin: 5px;
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+  border: 1px solid #aaa;
+  border-radius: 20px;
+  background: #fff;
+}
+
+.App {
+  padding: 20px;
+}
+
+.horizontal-list {
+  display: flex;
+}
